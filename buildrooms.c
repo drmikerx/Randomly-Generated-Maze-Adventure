@@ -1,6 +1,6 @@
 // Michael Childress
 // CS 344 Program 2 - Adventure
-// childrem.buildrooms.c
+// buildrooms.c
 
 /*
  *NAME
